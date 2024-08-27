@@ -35,29 +35,30 @@ The dataset used for training the model consists of images categorized into vari
 
 dataset
 
+dataset/
 ├── images/
 │   ├── train/
-│   │   ├── sunny/
-│   │   ├── cloudy/
-│   │   ├── rainy/
-│   │   ├── snowy/
+│   │   ├── sunrise/
+│   │   ├── cloud/
+│   │   ├── rain/
+│   │   ├── shine/
 │   ├── val/
-│   │   ├── sunny/
-│   │   ├── cloudy/
-│   │   ├── rainy/
-│   │   ├── snowy/
-├── labels
-
+│   │   ├── sunrise/
+│   │   ├── cloud/
+│   │   ├── rain/
+│   │   ├── shine/
+├── labels/
 │   ├── train/
-│   │   ├── sunny/
-│   │   ├── cloudy/
-│   │   ├── rainy/
-│   │   ├── snowy/
+│   │   ├── sunrise/
+│   │   ├── cloud/
+│   │   ├── rain/
+│   │   ├── snow/
 │   ├── val/
-│   │   ├── sunny/
-│   │   ├── cloudy/
-│   │   ├── rainy/
-│   │   ├── snowy/
+│   │   ├── sunrise/
+│   │   ├── cloud/
+│   │   ├── rain/
+│   │   ├── snow/
+
 
 Download the dataset and place it in the dataset/ directory.
 
