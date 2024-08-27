@@ -17,7 +17,7 @@ Acknowledgments
 Installation
 To run this project, you need to set up your environment with the required dependencies. Follow the steps below to get started:
 Clone the repository:
-git clone https://github.com/yourusername/weather-image-classification-yolov8.git
+git clone https://github.com/29aarushi/Weather-image-classification-using-YOLO/tree/main
 cd weather-image-classification-yolov8
 
 Install dependencies:
@@ -33,7 +33,8 @@ pip install ultralytics
 Dataset
 The dataset used for training the model consists of images categorized into various weather conditions. If you have a custom dataset, ensure it is organized in the following structure:
 
-dataset/
+dataset
+
 ├── images/
 │   ├── train/
 │   │   ├── sunny/
@@ -45,7 +46,8 @@ dataset/
 │   │   ├── cloudy/
 │   │   ├── rainy/
 │   │   ├── snowy/
-├── labels/
+├── labels
+
 │   ├── train/
 │   │   ├── sunny/
 │   │   ├── cloudy/
