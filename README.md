@@ -69,7 +69,7 @@ dataset/
 
 │   │   ├── rain/
 
-│   │   ├── snow/
+│   │   ├── shine/
 
 │   ├── val/
 
@@ -79,7 +79,7 @@ dataset/
 
 │   │   ├── rain/
 
-│   │   ├── snow/
+│   │   ├── shine/
 
 
 Download the dataset and place it in the dataset/ directory.
