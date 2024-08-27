@@ -36,8 +36,11 @@ The dataset used for training the model consists of images categorized into vari
 dataset
 
 dataset/
+
 ├── images/
+
 │   ├── train/
+
 │   │   ├── sunrise/
 │   │   ├── cloud/
 │   │   ├── rain/
