@@ -42,24 +42,43 @@ dataset/
 │   ├── train/
 
 │   │   ├── sunrise/
+
 │   │   ├── cloud/
+
 │   │   ├── rain/
+
 │   │   ├── shine/
+
 │   ├── val/
+
 │   │   ├── sunrise/
+
 │   │   ├── cloud/
+
 │   │   ├── rain/
+
 │   │   ├── shine/
+
 ├── labels/
+
 │   ├── train/
+
 │   │   ├── sunrise/
+
 │   │   ├── cloud/
+
 │   │   ├── rain/
+
 │   │   ├── snow/
+
 │   ├── val/
+
 │   │   ├── sunrise/
+
 │   │   ├── cloud/
+
 │   │   ├── rain/
+
 │   │   ├── snow/
 
 
